@@ -1,1 +1,3 @@
 Autor: Jakub Adamczyk
+Kurs: Technologie DevOps
+
